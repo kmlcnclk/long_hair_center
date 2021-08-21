@@ -173,7 +173,7 @@ function C3() {
             </Text>
           </Box>
 
-          <Flex className="space-x-4 mt-5" justify="left" align="center">
+          <Flex className="space-x-4 mt-6 mb-6" justify="left" align="center">
             <Button
               leftIcon={<RiArrowRightSLine />}
               colorScheme="blue"
@@ -202,7 +202,7 @@ function C3() {
               Tümünü Okuyun
             </Button>
           </Flex>
-          <Flex className="space-x-7 mt-5" justify="left" align="center">
+          <Flex className="space-x-7 mt-6" justify="left" align="center">
             <Box>
               <Image
                 src="/googleReviews.png"
@@ -312,7 +312,7 @@ function C3() {
           p={5}
           className="shadow-2xl"
         >
-          Sizde Yorum Yapın
+          Seç ve devam et
         </Button>
       </Flex>
     </Flex>
